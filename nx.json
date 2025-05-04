@@ -12,6 +12,9 @@
     },
     "typecheck": {
       "cache": true
+    },
+    "serve": {
+      "dependsOn": ["build"]
     }
   }
 }
