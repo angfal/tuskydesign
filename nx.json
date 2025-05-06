@@ -36,6 +36,9 @@
     }
   ],
   "release": {
-    "projects": ["packages/*"]
-  }
+    "projects": [
+      "packages/*"
+    ]
+  },
+  "nxCloudId": "681a874254c2fd6d39d96a01"
 }
